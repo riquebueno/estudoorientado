@@ -14,3 +14,6 @@ Material produzido na disciplina Estudo Orientado no semestre 2018.2 do Doutorad
 - Técnica de pesquisa bibliográfica Snowballing (https://research-methodology.net/sampling-in-primary-data-collection/snowball-sampling/)
 - Fazer pesquisa bibliográfica, por exemplo, existe um survey? Que tal publicar?
 - Algum estudo considera join?
+
+# Material Interessante
+- Livro Speech and Language Processing (3rd ed. draft) https://web.stanford.edu/~jurafsky/slp3/
