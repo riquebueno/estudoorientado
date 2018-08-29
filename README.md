@@ -12,7 +12,7 @@ Material produzido na disciplina Estudo Orientado no semestre 2018.2 do Doutorad
 - Interessante tentar publicar no WikiSQL e continuar com a ideia do gerador.
 - Quais são os pontos problemáticos deles? Comparações entre eles? Quero propor uma coisa nova, por exemplo, queries com join? O que diferem e o que falham? Existem modelos que não utilizam redes neurais? Aprendizado de sequência? Olhar outros datasets?
 - Técnica de pesquisa bibliográfica Snowballing (https://research-methodology.net/sampling-in-primary-data-collection/snowball-sampling/)
-- Fazer pesquisa bibliográfica, por exemplo, existe um survey? Que tal publicar?
+- Fazer pesquisa bibliográfica, por exemplo, existe um survey? Que tal publicar? SQLizer: Query Synthesis from Natural Language
 - Algum estudo considera join?
 
 # Material Interessante (Acho que tenho que criar um BIBTEX com isso tudo - tipo criar um latex com a estrutura da tese e já colocar as coisas que estou escrevendo)
