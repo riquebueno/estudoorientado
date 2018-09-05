@@ -31,6 +31,7 @@ Reunião 2 - 05/09/2018
 - Posso pensar em uma solução genérica e ao aplicar ao português não encontrar resultados interessantes. Temos uma hipótese que converter do inglês para SQL seja mais fácil. Mas se o resultado em português não for tão bom, podemos acoplar algum componente para melhorar os resultados em português. Isso não faz com que a proposta deixe de ser genérica.
 - Prestar atenção à diferença entre técnica e problema. Por exemplo, qual a relação entre NLIDB, SEQ2SEQ e NL2SQL? SEQ2SEQ é uma técnica, NL2SQL é uma instância de NLIDB.
 - Pensar na solução de forma abstrata mesmo sem conhecer a fundo todas as técnicas aplicadas. Será que fora da caixa não consigo pensar em alguma alternativa?
+- Apresentei um resumo do survey "Natural Language Interfaces to Databases - An Introduction (Androutsopoulos, G.D. Ritchie, P. Thanisch)". Segue link da apresentação: https://docs.google.com/presentation/d/1RMKBPriAfI2kgn2xnIO78njdmjZ-0xuBqyVIhRxzRQU/edit?usp=sharing
 
 # Colocar tarefas no GITLAB e usar igual ao jira. Está difícil ver as tarefas e seus prazos.
 
