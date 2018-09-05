@@ -2,6 +2,10 @@
 
 Material produzido na disciplina Estudo Orientado no semestre 2018.2 do Doutorado.
 
+# Tarefas
+https://gitlab.com/riquebueno/doutorado/boards
+
+# Reuniões
 Reunião 1 - 15/08/2018
 - Primeira reunião de alinhamento.
 - Proposta do estudo orientado deve ser entregue até 14/09.
