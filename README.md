@@ -33,8 +33,6 @@ Reunião 2 - 05/09/2018
 - Pensar na solução de forma abstrata mesmo sem conhecer a fundo todas as técnicas aplicadas. Será que fora da caixa não consigo pensar em alguma alternativa?
 - Apresentei um resumo do survey "Natural Language Interfaces to Databases - An Introduction (Androutsopoulos, G.D. Ritchie, P. Thanisch)". Segue link da apresentação: https://docs.google.com/presentation/d/1RMKBPriAfI2kgn2xnIO78njdmjZ-0xuBqyVIhRxzRQU/edit?usp=sharing
 
-# Colocar tarefas no GITLAB e usar igual ao jira. Está difícil ver as tarefas e seus prazos.
-
 # Material Interessante (Acho que tenho que criar um BIBTEX com isso tudo - tipo criar um latex com a estrutura da tese e já colocar as coisas que estou escrevendo)
 - Livro Speech and Language Processing (3rd ed. draft) https://web.stanford.edu/~jurafsky/slp3/
 - http://www.statmt.org/moses/
