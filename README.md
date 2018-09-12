@@ -44,3 +44,4 @@ Reunião 2 - 05/09/2018
 - http://deeplearningbook.com.br/capitulos/
 - https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/
 - https://blog.openai.com/
+- https://github.com/sebastianruder/NLP-progress
