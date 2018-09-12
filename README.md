@@ -41,3 +41,4 @@ Reunião 2 - 05/09/2018
 - https://paulhcleverley.com/2018/09/06/search-is-on-the-move/
 - https://anniebruton.wordpress.com/2013/09/21/dear-new-phd-student/
 - http://www.theexclusive.org/tag/stress%20in%20research/
+- http://deeplearningbook.com.br/capitulos/
