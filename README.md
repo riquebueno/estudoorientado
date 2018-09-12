@@ -39,5 +39,5 @@ Reunião 2 - 05/09/2018
 - Boom do Deep Learning = GERAÇÃO E ARMAZENAMENTO DE GRANDES VOLUMES DE DADOS + GRANDE EVOLUÇÃO DE HARDWARE DE PROCESSAMENTO (GPU) + MODELOS DE MACHINE LEARNING MAIS MADUROS.
 - https://www.amazon.com.br/Natural-Language-Data-Management-Interfaces/dp/1681734087?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=eceb0337-4b24-4bab-93c6-4f818ed3a9d6
 - https://paulhcleverley.com/2018/09/06/search-is-on-the-move/
-- 
-https://anniebruton.wordpress.com/2013/09/21/dear-new-phd-student/
+- https://anniebruton.wordpress.com/2013/09/21/dear-new-phd-student/
+- http://www.theexclusive.org/tag/stress%20in%20research/
