@@ -45,3 +45,4 @@ Reunião 2 - 05/09/2018
 - https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/
 - https://blog.openai.com/
 - https://github.com/sebastianruder/NLP-progress
+- Gardner, Matt, et al. "Allennlp: A deep semantic natural language processing platform." arXiv preprint arXiv:1803.07640 (2018).
