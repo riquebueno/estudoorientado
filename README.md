@@ -42,3 +42,4 @@ Reunião 2 - 05/09/2018
 - https://anniebruton.wordpress.com/2013/09/21/dear-new-phd-student/
 - http://www.theexclusive.org/tag/stress%20in%20research/
 - http://deeplearningbook.com.br/capitulos/
+- https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/
