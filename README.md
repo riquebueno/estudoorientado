@@ -2,6 +2,9 @@
 
 Material produzido na disciplina Estudo Orientado no semestre 2018.2 do Doutorado.
 
+# Objetivo do trabalho do doutorado
+O objetivo desse trabalho é propor um modelo de conversão de perguntas em linguagem natural escritas em português para queries SQL independentes do modelo de dados.  
+
 # Tarefas
 https://gitlab.com/riquebueno/doutorado/boards
 
