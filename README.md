@@ -3,7 +3,17 @@
 Material produzido na disciplina Estudo Orientado no semestre 2018.2 do Doutorado.
 
 # Objetivo do trabalho do doutorado
-O objetivo desse trabalho é propor um modelo de conversão de perguntas em linguagem natural escritas em português para queries SQL independentes do modelo de dados.  
+Qual o objetivo do trabalho?
+
+Esse trabalho propõe o CCRNet, que é um modelo de conversão de consultas a bancos de dados relacionais escritas em linguagem natural para queries SQL, independente do modelo de dados utilizado, ou seja, capaz de ser utilizado para a realização de consultas em modelos de dados de diferentes áreas de conhecimento (database agnostic). Além disso, para o idioma português é proposto um plugin (CCRNetBR) que tem como objetivo otimizar os resultados para o idioma que tratará questões específicas do idioma.
+
+Esse modelo será avaliado pelos resultados obtidos nas suas execuções frente a diferentes datasets (https://atlas.cern/tags/open-data, WikiSQL - MAS, IMDB e YELP). 
+
+Como os outros modelos funcionam? O que proporei de diferente para o meu modelo?
+
+Para responder essa pergunta preciso verificar os tipos de solução. Acredito que os surveys apresentam arquiteturas com os tipos de soluções. Preciso descobrir em qual tipo de solução os modelos NL2SQL se encaixam. Dessa forma, consigo encaixar os artigos antigos com os artigos atuais que tratam o WikiSQL.
+
+Também é importante encaixar o modelo síntese automática de queries SQL.
 
 # Tarefas
 https://gitlab.com/riquebueno/doutorado/boards
