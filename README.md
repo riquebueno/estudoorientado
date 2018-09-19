@@ -69,9 +69,7 @@ Reunião 3 - 19/09/2018
  - AGORA já! Pensar em ideias antes de aprofundar o conhecimento.
  - Em relação ao survey, mostrar apenas quando achar que está pronto. Posso trazer para discutir ideias de seções mas entregar para os orientadores lerem, apenas quando na minha opinião o material estiver pronto de verdade.
  
- 
-
-# Material Interessante (Acho que tenho que criar um BIBTEX com isso tudo - tipo criar um latex com a estrutura da tese e já colocar as coisas que estou escrevendo)
+# Material Interessante
 - Livro Speech and Language Processing (3rd ed. draft) https://web.stanford.edu/~jurafsky/slp3/
 - http://www.statmt.org/moses/
 - Boom do Deep Learning = GERAÇÃO E ARMAZENAMENTO DE GRANDES VOLUMES DE DADOS + GRANDE EVOLUÇÃO DE HARDWARE DE PROCESSAMENTO (GPU) + MODELOS DE MACHINE LEARNING MAIS MADUROS.
