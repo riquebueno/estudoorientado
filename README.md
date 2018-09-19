@@ -55,8 +55,21 @@ Reunião 3 - 19/09/2018
 - http://qualis.ic.ufmt.br/: Site para pesquisar conferências e periódicos.
  - Quais palavras chave usei para a pesquisa bibliográfica? Guardar para citar depois. Pesquisar quem referencia o survey de 95 e olhar esses artigos (snow balling). Algumas pessoas fazer uma revisão sistemática.
  - Começar a falar sobre QA e especializar para NLIDB.
- - Primeiro classificar o problema que vou tratar. Entrada não estruturada e saída estruturada.
- - Segundo estruturar as categorias das soluções para esse problema. Estou revisitando a taxonomia do artigo de 95. É muito importante!
+ - Primeiro: classificar o problema que vou tratar. Entrada não estruturada e saída estruturada.
+ - Segundo: estruturar as categorias das soluções para esse problema. Estou revisitando a taxonomia do artigo de 95. É muito importante!
+ - Olhar blog de síntese de programas da Aline. quais as relações com as redes neurais? Existe SP co ML e sem ML.
+ - PRIORIDADE MÁXIMA: Criar taxonomia para problema e soluções.
+ - Existe algo para mais de uma tabela? Pode ser um diferencial!
+ - Geração de linguagem intermediária?
+ - Como a saída SQL é avaliada no wikiSQL para ganhar uma nota?
+ - IMAGENET: dataset geral para visão computacional.
+ - Aline acha que OpenAI criou um dataset geral para NLP (universal language name?)
+ - Falar com mais detalhes sobre os datasets?
+ - Aprofundar estudo em uma solução NL2SQL e ver como funciona a rede LSTM nesse caso. Preciso conseguir explicar com detalhes como funciona um exemplo do wikisql.
+ - AGORA já! Pensar em ideias antes de aprofundar o conhecimento.
+ - Em relação ao survey, mostrar apenas quando achar que está pronto. Posso trazer para discutir ideias de seções mas entregar para os orientadores lerem, apenas quando na minha opinião o material estiver pronto de verdade.
+ 
+ 
 
 # Material Interessante (Acho que tenho que criar um BIBTEX com isso tudo - tipo criar um latex com a estrutura da tese e já colocar as coisas que estou escrevendo)
 - Livro Speech and Language Processing (3rd ed. draft) https://web.stanford.edu/~jurafsky/slp3/
