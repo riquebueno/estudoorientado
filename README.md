@@ -47,7 +47,16 @@ Reunião 2 - 05/09/2018
 - Apresentei um resumo do survey "Natural Language Interfaces to Databases - An Introduction (Androutsopoulos, G.D. Ritchie, P. Thanisch)". Segue link da apresentação: https://docs.google.com/presentation/d/1RMKBPriAfI2kgn2xnIO78njdmjZ-0xuBqyVIhRxzRQU/edit?usp=sharing
 
 Reunião 3 - 19/09/2018
-- aaa
+- Escrever com segurança: "Quais são os tipos de técnicas existentes e como funcionam?".
+- Para cada um dos tipos, escrever exemplos e citar os artigos. Acho que é uma boa estrutura para começar o survey. Mas antes é importante falar que apesar de existir hadoop, ..., ainda existem muitos dados em bancos relacionais que os usuários querem ter liberdade de explorar (democratização da informação).
+- Tirar a palavra "modelo" de dados do objetivo. Trocar por schema (schema agnostic).
+- Trocar plugin por recurso linguístico. Outra ideia é utilizar o Tesauro de Tulsa. Esse recurso adicional pode ser genérico para um idioma ou específico para um nicho de informação.
+- Escrever o texto em inglês.
+- http://qualis.ic.ufmt.br/: Site para pesquisar conferências e periódicos.
+ - Quais palavras chave usei para a pesquisa bibliográfica? Guardar para citar depois. Pesquisar quem referencia o survey de 95 e olhar esses artigos (snow balling). Algumas pessoas fazer uma revisão sistemática.
+ - Começar a falar sobre QA e especializar para NLIDB.
+ - Primeiro classificar o problema que vou tratar. Entrada não estruturada e saída estruturada.
+ - Segundo estruturar as categorias das soluções para esse problema. Estou revisitando a taxonomia do artigo de 95. É muito importante!
 
 # Material Interessante (Acho que tenho que criar um BIBTEX com isso tudo - tipo criar um latex com a estrutura da tese e já colocar as coisas que estou escrevendo)
 - Livro Speech and Language Processing (3rd ed. draft) https://web.stanford.edu/~jurafsky/slp3/
