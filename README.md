@@ -63,11 +63,16 @@ Reunião 3 - 19/09/2018
  - Geração de linguagem intermediária?
  - Como a saída SQL é avaliada no wikiSQL para ganhar uma nota?
  - IMAGENET: dataset geral para visão computacional.
- - Aline acha que OpenAI criou um dataset geral para NLP (universal language name?)
+ - Aline acha que OpenAI criou um dataset geral para NLP (universal language model)
  - Falar com mais detalhes sobre os datasets?
  - Aprofundar estudo em uma solução NL2SQL e ver como funciona a rede LSTM nesse caso. Preciso conseguir explicar com detalhes como funciona um exemplo do wikisql.
  - AGORA já! Pensar em ideias antes de aprofundar o conhecimento.
  - Em relação ao survey, mostrar apenas quando achar que está pronto. Posso trazer para discutir ideias de seções mas entregar para os orientadores lerem, apenas quando na minha opinião o material estiver pronto de verdade.
+- Material que Aline enviou: 
+- 1 - program synthesis: https://alexpolozov.com/blog/program-synthesis-2018/
+ele fala do survey que eu mencionei, e ele menciona o dataset WikiSQL, na parte de datasets.
+2 - Universal Language Model, que foi publicado no ACL 2018: http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html. 
+3 - Vários problemas de NLP resolvidos com a mesma topologia de rede (baseada em atenção) do OpenAI: https://blog.openai.com/language-unsupervised/
  
 # Material Interessante
 - Livro Speech and Language Processing (3rd ed. draft) https://web.stanford.edu/~jurafsky/slp3/
