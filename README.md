@@ -46,6 +46,9 @@ Reunião 2 - 05/09/2018
 - Pensar na solução de forma abstrata mesmo sem conhecer a fundo todas as técnicas aplicadas. Será que fora da caixa não consigo pensar em alguma alternativa?
 - Apresentei um resumo do survey "Natural Language Interfaces to Databases - An Introduction (Androutsopoulos, G.D. Ritchie, P. Thanisch)". Segue link da apresentação: https://docs.google.com/presentation/d/1RMKBPriAfI2kgn2xnIO78njdmjZ-0xuBqyVIhRxzRQU/edit?usp=sharing
 
+Reunião 3 - 19/09/2018
+- aaa
+
 # Material Interessante (Acho que tenho que criar um BIBTEX com isso tudo - tipo criar um latex com a estrutura da tese e já colocar as coisas que estou escrevendo)
 - Livro Speech and Language Processing (3rd ed. draft) https://web.stanford.edu/~jurafsky/slp3/
 - http://www.statmt.org/moses/
@@ -61,3 +64,4 @@ Reunião 2 - 05/09/2018
 - Gardner, Matt, et al. "Allennlp: A deep semantic natural language processing platform." arXiv preprint arXiv:1803.07640 (2018).
 - http://www.deeplearningbook.org/
 - https://web.stanford.edu/~jurafsky/slp3/
+
